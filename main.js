@@ -73,4 +73,14 @@ function mostrarLista() {
 
 }
 
+let pessoa = {
+  nome: 'Ana',
+  idade: 18,
+  completed: true,
+}
+
+pessoa.nome  = 'Edigar'
+pessoa.pais = 'Brasil'
+
+console.log(pessoa)
 
