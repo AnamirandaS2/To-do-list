@@ -23,8 +23,6 @@ font-family: 'Poppins', sans-serif;
 #container{
     display: grid;
     place-content: center;
-
-
 }
 
 li{
@@ -32,7 +30,6 @@ li{
     line-height: 2;
     letter-spacing: 0.5px;
     list-style-type: none;
-    
 }
 
 #card-mostrarTodo{
